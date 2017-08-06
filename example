@@ -1,1 +1,3 @@
 Example test
+Testing connectivity between Jenkins & Github .
+Also to check if log gets created on jenkins after code commit
